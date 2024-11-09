@@ -6,7 +6,7 @@ Code for the ECCV 2024 paper "Flash-Splat: 3D Reflection Removal with Flash Cues
 ## Installation
 We test our code with Torch 1.12 and CUDA 11.7 on an NVIDIA RTX A6000 GPU. Before you start installation, please ensure that your working environment has access to an NVIDIA GPU with CUDA installed. Please follow the following steps to set up the environment:
 ``` 
-git clone 
+git clone https://github.com/mingyangx/flash-splat.git
 cd flash-splat
 conda env create --file environment.yml
 conda activate flash-splat
