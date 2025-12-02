@@ -1,7 +1,7 @@
 # Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats
 ​
 Code for the ECCV 2024 paper "Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats".
-<br>[**Project Page**](https://flash-splat.github.io/) | [**PDF**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10739.pdf) | [**supplement**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10739-supp.pdf) | [**Poster**](https://flash-splat.github.io/static/poster.pdf) <br>
+<br>[**Project Page**](https://mingyangx.github.io/Flash-Splat/) | [**PDF**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10739.pdf) | [**supplement**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10739-supp.pdf) | [**Poster**](https://mingyangx.github.io/Flash-Split/static/poster.pdf) <br>
 
 ## Installation
 We test our code with Torch 1.12 and CUDA 11.7 on an NVIDIA RTX A6000 GPU. Before you start installation, please ensure that your working environment has access to an NVIDIA GPU with CUDA installed. Please follow the following steps to set up the environment:
